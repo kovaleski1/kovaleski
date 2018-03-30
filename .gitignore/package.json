@@ -1,0 +1,21 @@
+{
+  "name": "Kovaleskibot",
+  "version": "1.0.0",
+  "description": "Simple bot en nodeJS",
+  "repository": {
+    "type": "url",
+    "url": "votre site/facebook"
+  },
+  "main": "bot.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Kov'",
+  "license": "la license",
+  "dependencies": {
+    "discord-bot": "^0.2.16",
+    "discord.js": "^10.0.1",
+    "node-opus": "^0.2.4",
+    "opusscript": "0.0.1"
+  }
+}
