@@ -1,5 +1,5 @@
 {
-  "name": "Kovaleskibot",
+  "name": "Kovaleski",
   "version": "1.0.0",
   "description": "Simple bot en nodeJS",
   "repository": {
@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Kov'",
+  "author": "Kovaleski'",
   "license": "la license",
   "dependencies": {
     "discord-bot": "^0.2.16",
